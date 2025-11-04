@@ -48,6 +48,7 @@ poetry.lock  # Optional: some people commit this, others don't
 .DS_Store
 
 # Fly.io
+fly.toml
 .fly/
 
 # Logs
